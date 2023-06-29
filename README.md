@@ -24,4 +24,5 @@
 
 <p align='center'>
 <a href="mailto:cubilelucas@gmail.com?subject=Hello%20Lucas,%20From%20Github" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+<a href="https://www.linkedin.com/in/lucas-martin-cubile-47081b230/" target="_blank"><img alt="linkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
