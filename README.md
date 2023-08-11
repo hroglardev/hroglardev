@@ -2,11 +2,11 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQF6oySb3JYIVA/profile-displaybackgroundimage-shrink_350_1400/0/1687987793705?e=1697068800&v=beta&t=YthzCewIdZ-y_QpJIm_Sj_uaknMT4uA1XDw3VXJSPrc" align="center" style="width: 100%" />
 </div>
 
-<h2 align="left"> 👋 About Me</h2>
+<h2 align="center"> 👋 About Me</h2>
 
 <br></br>
 
-<p align='left' style='font-size: 35px;'>  I'm Lucas, an English Major transitioning into Software Development. </p>
+<p align='center' style='font-size: 45px;'>  I'm Lucas, an English Major transitioning into Software Development. </p>
 <br>
 <br>
 
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<h2 align= "left"> 💻 Tech & Tools Preference</h2>
+<h2 align= "center"> 💻 Tech & Tools Preference</h2>
 
 <table><tr><td valign="top" width="33%">
 
@@ -73,9 +73,9 @@
 <br>
 <br>
 
-<h2 align="left"> 📫 Contact me</h2>
+<h2 align="center"> 📫 Contact me</h2>
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/hroglardev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -86,6 +86,3 @@
 <a href="https://wa.me/+393881169579"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white style="margin-bottom: 5px;"/></a>
 </div>
 
-<p align='center'>
-
-</p>
