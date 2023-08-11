@@ -6,7 +6,9 @@
 
 <br></br>
 
-<h3 align='center' style='font-size: 45px;'>  I'm Lucas, an English Major transitioning into Software Development. </h3>
+<div align='center' style='font-size: 45px; line-height: 1.2;'>  
+  <strong>I'm Lucas, an English Major transitioning into Software Development.</strong>
+</div>
 <br>
 <br>
 
