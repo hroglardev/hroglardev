@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<h2 align= "center"> 💻 Tech & Tools Preference</h2>
+<h2 align= "left"> 💻 Tech & Tools Preference</h2>
 
 <table><tr><td valign="top" width="33%">
 
@@ -73,7 +73,7 @@
 <br>
 <br>
 
-<h2 align="center"> 📫 Contact me</h2>
+<h2 align="left"> 📫 Contact me</h2>
 
 <div align="center">
 <a href="https://github.com/hroglardev" target="_blank">
