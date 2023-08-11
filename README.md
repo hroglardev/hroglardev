@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQF6oySb3JYIVA/profile-displaybackgroundimage-shrink_350_1400/0/1687987793705?e=1697068800&v=beta&t=YthzCewIdZ-y_QpJIm_Sj_uaknMT4uA1XDw3VXJSPrc" align="center" style="width: 100%" />
 </div>
 
-<h2 align="center"> 👋 About Me</h2>
+<h2 align="left"> 👋 About Me</h2>
 
 <br></br>
 
@@ -27,7 +27,7 @@
 
 ### Frontend
 
-<div align="center">  
+<div align="center" style="padding-left: 15px;">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
