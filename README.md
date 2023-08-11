@@ -6,7 +6,7 @@
 
 <br></br>
 
-<p align='center' style='font-size: 45px;'>  I'm Lucas, an English Major transitioning into Software Development. </p>
+<h3 align='center' style='font-size: 45px;'>  I'm Lucas, an English Major transitioning into Software Development. </h3>
 <br>
 <br>
 
