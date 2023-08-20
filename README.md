@@ -67,7 +67,7 @@
 <h2 align='left'> 📖 Latest Projects</h2>
 
 <p align='left'>Travel Buddy</p>
-<img src="https://ibb.co/qMX8y1Q" alt="Travel Buddy" style="margin-bottom: 5px;" />
+<img src="https://i.ibb.co/TBpGvh3/3.png" alt="Travel Buddy" style="margin-bottom: 5px;" />
 <p align="left">A single page application to load a PostgreSQL database with countries retrieved from a JSON local API. The model right now is an MVP with future features incoming.
 
 This app includes the functionality for the user to create activities and assign them to their respective countries through a form.
