@@ -78,6 +78,9 @@ For the back-end I opted for Node.js environment using Express.js as a framework
 
 In the future this app will get a revamp to add functionalities as well as swap styling to use my preferred CSS too: TailwindCSS</p>
 
+<a href="https://github.com/hroglardev/PI_Countries">Repository</a>
+<a href="https://countries-client-blue.vercel.app/">Deploy</a>
+
 
 <hr>
 <br>
