@@ -23,7 +23,7 @@
 
 <h2 align= "left"> 💻 Tech & Tools Preference</h2>
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 ### Frontend
 
@@ -37,7 +37,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 ### Backend
 
@@ -47,11 +47,11 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 ### Learning
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">  
+<div align="center">  
   
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
