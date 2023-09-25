@@ -68,7 +68,7 @@
 <h2 align='left'> 📖 Latest Projects</h2>
 
 <p align='left'>Travel Buddy:</p>
-<img src="https://i.ibb.co/TBpGvh3/3.png" alt="Travel Buddy" style="margin-bottom: 5px;" />
+<img src="./ProjectImages/TravelBuddy.PNG" alt="Travel Buddy" style="margin-bottom: 5px;" />
 <p align="left">A single page application to load a PostgreSQL database with countries retrieved from a JSON local API. The model right now is an MVP with future features incoming.
 
 This app includes the functionality for the user to create activities and assign them to their respective countries through a form.
@@ -82,8 +82,8 @@ In the future this app will get a revamp to add functionalities as well as swap 
 <a href="https://github.com/hroglardev/PI_Countries">Repository</a>
 <a href="https://countries-client-blue.vercel.app/">Deploy</a>
 
-<p align='left'>Travel Buddy:</p>
-<img src="https://imgur.com/stxFKPk" alt="Glamour Glow" style="margin-bottom: 5px;" />
+<p align='left'>Glamour Glow:</p>
+<img src="./ProjectImages/GlamourGlow.PNG" alt="Glamour Glow" style="margin-bottom: 5px;" />
 <p align="left">A marketplace app built to connect service providers with clients in the aesthetics industry. The app consists of three different roles: Customers, Service providers and the platform Admin who can moderate the platform. My contributions to the project consisted of:
 
 • Design of the service-provider views.
