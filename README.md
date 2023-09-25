@@ -23,7 +23,7 @@
 
 <h2 align= "left"> 💻 Tech & Tools Preference</h2>
 
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend
 
@@ -37,7 +37,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 ### Backend
 
@@ -47,7 +47,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 ### Learning
 
