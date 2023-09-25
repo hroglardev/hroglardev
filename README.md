@@ -96,6 +96,7 @@ I was focused on mainly on the frontend using technologies like React, TypeScrip
 
 <a href="https://github.com/hroglardev/Glamour-Glow">Repository</a>
 <a href="https://glamour-glow-app.vercel.app/">Deploy</a>
+<a href="https://www.youtube.com/watch?v=C99QeDGOOGc&ab_channel=Kndy">Video demo</a>
 
 <hr>
 <br>
