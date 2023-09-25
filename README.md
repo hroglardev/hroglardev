@@ -82,6 +82,21 @@ In the future this app will get a revamp to add functionalities as well as swap 
 <a href="https://github.com/hroglardev/PI_Countries">Repository</a>
 <a href="https://countries-client-blue.vercel.app/">Deploy</a>
 
+<p align='left'>Travel Buddy:</p>
+<img src="https://imgur.com/stxFKPk" alt="Glamour Glow" style="margin-bottom: 5px;" />
+<p align="left">A marketplace app built to connect service providers with clients in the aesthetics industry. The app consists of three different roles: Customers, Service providers and the platform Admin who can moderate the platform. My contributions to the project consisted of:
+
+• Design of the service-provider views.
+• Implementation of favourites for users.
+• E-mail notifications for users, service providers and the app admins using nodemailer.
+• Full integration of a payment gateway using MercadoPago’s API including updates of balance and requesting payouts.
+• Submission of reports for, admin moderation of the website.
+• Navigation through the website.
+
+I was focused on mainly on the frontend using technologies like React, TypeScript and Redux for state management as well some some UI libraries like Material UI. On the backend I designed the e-mails to send the notifications as well as the payment gateway integration.</p>
+
+<a href="https://github.com/hroglardev/Glamour-Glow">Repository</a>
+<a href="https://glamour-glow-app.vercel.app/">Deploy</a>
 
 <hr>
 <br>
