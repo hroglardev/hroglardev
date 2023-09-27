@@ -4,7 +4,7 @@
 
 <h2 align="left"> 👋 About Me</h2>
 
-<br></br>
+<!-- <br></br> -->
 
 <h3 align='center' style='font-size: 45px;'>  I'm Lucas, an English Major transitioning into Software Development. </h3>
 <br>
@@ -16,9 +16,9 @@
 
 - ❓ Ask me about anything related to PERN stack and related technologies
 
-<hr>
-<br>
-<br>
+<!-- <hr> -->
+<!-- <br>
+<br> -->
 <br>
 
 <h2 align= "left"> 💻 Tech & Tools Preference</h2>
@@ -59,31 +59,26 @@
 
 </td></tr></table>
 
-<hr>
-<br>
-<br>
+<!-- <hr> -->
+<!-- <br>
+<br> -->
 <br>
 
 <h2 align='left'> 📖 Latest Projects</h2>
 
-<p align='left'>Travel Buddy:</p>
-<img src="./ProjectImages/TravelBuddy.PNG" alt="Travel Buddy" style="margin-bottom: 5px;" />
-<p align="left">A single page application to load a PostgreSQL database with countries retrieved from a JSON local API. The model right now is an MVP with future features incoming.
+<h3 align='left'>Glamour Glow:</h3>
+<h4>Connecting clients with service providers in the aesthetics industry</h4>
+<div align="center">
+<img src="./ProjectImages/GlamourGlow.gif" alt="Glamour Glow" style="margin-bottom: 5px;" />
 
-This app includes the functionality for the user to create activities and assign them to their respective countries through a form.
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-I used React.js for Frontend development together with Redux to manage global state as well as CSS to add basic styling.
+</div>
 
-For the back-end I opted for Node.js environment using Express.js as a framework together with Sequelize ORM to manage a PostgreSQL database.
+<br>
 
-In the future this app will get a revamp to add functionalities as well as swap styling to use my preferred CSS too: TailwindCSS</p>
-
-<a href="https://github.com/hroglardev/PI_Countries">Repository</a><br/>
-<a href="https://countries-client-blue.vercel.app/">Deploy</a>
-
-<p align='left'>Glamour Glow:</p>
-<img src="./ProjectImages/GlamourGlow.PNG" alt="Glamour Glow" style="margin-bottom: 5px;" />
-<p align="left">A marketplace app built to connect service providers with clients in the aesthetics industry. The app consists of three different roles: Customers, Service providers and the platform Admin who can moderate the platform. My contributions to the project consisted of:
+<!-- <p align="left">A marketplace app built to connect service providers with clients in the aesthetics industry. The app consists of three different roles: Customers, Service providers and the platform Admin who can moderate the platform. My contributions to the project consisted of:
 
 • Design of the service-provider views.
 • Implementation of favourites for users.
@@ -92,15 +87,38 @@ In the future this app will get a revamp to add functionalities as well as swap 
 • Submission of reports for, admin moderation of the website.
 • Navigation through the website.
 
-I was focused on mainly on the frontend using technologies like React, TypeScript and Redux for state management as well some some UI libraries like Material UI. On the backend I designed the e-mails to send the notifications as well as the payment gateway integration.</p>
+I was focused on mainly on the frontend using technologies like React, TypeScript and Redux for state management as well some some UI libraries like Material UI. On the backend I designed the e-mails to send the notifications as well as the payment gateway integration.</p> -->
 
-<a href="https://github.com/hroglardev/Glamour-Glow">Repository</a><br/>
-<a href="https://glamour-glow-app.vercel.app/">Deploy</a><br/>
-<a href="https://www.youtube.com/watch?v=C99QeDGOOGc&ab_channel=Kndy">Video demo</a>
+<a href="https://github.com/hroglardev/Glamour-Glow">📚 View the repository</a><br/>
+<a href="https://glamour-glow-app.vercel.app/">📡 Live version</a><br/>
+<a href="https://www.youtube.com/watch?v=C99QeDGOOGc&ab_channel=Kndy">🎥 Video demo</a>
 
-<hr>
-<br>
-<br>
+<hr/>
+
+<h3 align='left'>Travel Buddy:</h3>
+<div align="center">
+<img src="./ProjectImages/TravelBuddy.PNG" alt="Travel Buddy" style="margin-bottom: 5px;" />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<!-- <p align="left">A single page application to load a PostgreSQL database with countries retrieved from a JSON local API. The model right now is an MVP with future features incoming.
+
+This app includes the functionality for the user to create activities and assign them to their respective countries through a form.
+
+I used React.js for Frontend development together with Redux to manage global state as well as CSS to add basic styling.
+
+For the back-end I opted for Node.js environment using Express.js as a framework together with Sequelize ORM to manage a PostgreSQL database.
+
+In the future this app will get a revamp to add functionalities as well as swap styling to use my preferred CSS too: TailwindCSS</p> -->
+
+<a href="https://github.com/hroglardev/PI_Countries">📚 View the repository</a><br/>
+<a href="https://countries-client-blue.vercel.app/">📡 Live version</a>
+
+<!-- <hr> -->
+<!-- <br>
+<br> -->
 <br>
 
 <h2 align="left"> 📫 Contact me</h2>
