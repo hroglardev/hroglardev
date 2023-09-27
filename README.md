@@ -97,7 +97,7 @@ I was focused on mainly on the frontend using technologies like React, TypeScrip
 
 <h3 align='left'>Travel Buddy:</h3>
 <h4>Choose your next travel destination filtering by different criteria</h4>
-<h4>Contribute on the website by adding activities to the countries</h4><}
+<h4>Contribute on the website by adding activities to the countries</h4>
 <div align="center">
 <img src="./ProjectImages/TravelBuddy.PNG" alt="Travel Buddy" style="margin-bottom: 5px;" />
 
