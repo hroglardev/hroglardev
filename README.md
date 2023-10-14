@@ -10,7 +10,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently looking for a position as a Frontend, Backend or Fullstack developer, preferably in the EU (even though I'm Argentinian, I hold EU citizenship and have lived in the EU in the past)
+- 🌱 I’m currently looking for a position as a Frontend, Backend or Fullstack developer. I hold EU citizenship
 
 - 🎓 I’m currently learning TypeScript, MongoDB, NextJs and NestJs
 
