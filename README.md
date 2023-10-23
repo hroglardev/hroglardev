@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQF6oySb3JYIVA/profile-displaybackgroundimage-shrink_350_1400/0/1687987793705?e=1697068800&v=beta&t=YthzCewIdZ-y_QpJIm_Sj_uaknMT4uA1XDw3VXJSPrc" align="center" style="width: 100%" />
+<img src="./ProjectImages/banner.jfif" align="center" style="width: 100%" />
 </div>
 
 <h2 align="left"> 👋 About Me</h2>
