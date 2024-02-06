@@ -23,7 +23,6 @@
 
 <h2 align= "left"> 💻 Tech & Tools Preference</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hroglardev&l)]
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
