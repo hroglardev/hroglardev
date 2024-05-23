@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently looking for a position as a Frontend, Backend or Fullstack developer. I hold EU citizenship
 
-- 🎓 I’m currently learning TypeScript, MongoDB, NextJs and NestJs
+- 🎓 I’m currently learning MongoDB, NextJs and NestJs
 
 - ❓ Ask me about anything related to PERN stack and related technologies
 
