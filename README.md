@@ -89,7 +89,6 @@
 I was focused on mainly on the frontend using technologies like React, TypeScript and Redux for state management as well some some UI libraries like Material UI. On the backend I designed the e-mails to send the notifications as well as the payment gateway integration.</p> -->
 
 <a href="https://github.com/hroglardev/Glamour-Glow">📚 View the repository</a><br/>
-<a href="https://glamour-glow-app.vercel.app/">📡 Live version</a><br/>
 <a href="https://www.youtube.com/watch?v=C99QeDGOOGc&ab_channel=Kndy">🎥 Video demo</a>
 
 <hr/>
