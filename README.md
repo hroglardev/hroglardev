@@ -59,7 +59,7 @@
 
 </td></tr></table>
 
-[![Top Langs](https://github-readme-stats-hroglardevs-projects.vercel.app/api/top-langs/?username=hroglardev&layout=compact)](https://github.com/hroglardev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hroglardevs-projects.vercel.app/api/top-langs/?username=hroglardev&layout=compact&count_private=true)](https://github.com/hroglardev/github-readme-stats)
 
 <br>
 
