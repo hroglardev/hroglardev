@@ -59,9 +59,8 @@
 
 </td></tr></table>
 
-<!-- <hr> -->
-<!-- <br>
-<br> -->
+[![Top Langs](https://github-readme-stats-hroglardevs-projects.vercel.app/api/top-langs/?username=hroglardev&layout=compact)](https://github.com/hroglardev/github-readme-stats)
+
 <br>
 
 <h2 align='left'> 📖 Latest Projects</h2>
