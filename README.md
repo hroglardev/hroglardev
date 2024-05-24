@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently looking for a position as a Frontend, Backend or Fullstack developer. I hold EU citizenship
 
-- 🎓 Currently I'm a student of a Bachelor in information technologies. I’m also currently learning MongoDB, NextJs and NestJs. 
+- 🎓 Currently I'm a student of a Bachelor's degree in information technologies. I’m also currently learning MongoDB, NextJs and NestJs. 
 
 - ❓ Ask me about anything related to PERN/MERN stack and related technologies
 
