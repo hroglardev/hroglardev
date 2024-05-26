@@ -4,7 +4,7 @@
 
 <h2 align="left"> 👋 About Me</h2>
 
-<!-- <br></br> -->
+
 
 <h3 align='center' style='font-size: 45px;'>  I'm Lucas, an English Major transitioning into Software Development going through college a second time. </h3>
 <br>
@@ -16,9 +16,7 @@
 
 - ❓ Ask me about anything related to PERN/MERN stack and related technologies
 
-<!-- <hr> -->
-<!-- <br>
-<br> -->
+
 <br>
 
 <h2 align= "left"> 💻 Tech & Tools Preference</h2>
@@ -153,22 +151,12 @@
 
 </div>
 
-<!-- <p align="left">A single page application to load a PostgreSQL database with countries retrieved from a JSON local API. The model right now is an MVP with future features incoming.
 
-This app includes the functionality for the user to create activities and assign them to their respective countries through a form.
-
-I used React.js for Frontend development together with Redux to manage global state as well as CSS to add basic styling.
-
-For the back-end I opted for Node.js environment using Express.js as a framework together with Sequelize ORM to manage a PostgreSQL database.
-
-In the future this app will get a revamp to add functionalities as well as swap styling to use my preferred CSS too: TailwindCSS</p> -->
 
 <a href="https://github.com/hroglardev/PI_Countries">📚 View the repository</a><br/>
 <a href="https://countries-client-blue.vercel.app/">📡 Live version</a>
 
-<!-- <hr> -->
-<!-- <br>
-<br> -->
+
 <br>
 
 <h2 align="left"> 📫 Contact me</h2>
