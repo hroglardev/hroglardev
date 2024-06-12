@@ -69,8 +69,7 @@
 
 [![Top Langs](https://github-readme-stats-hroglardevs-projects.vercel.app/api/top-langs/?username=hroglardev&layout=compact&count_private=true&theme=nord&card_width=500&hide=shell,papyrus&exclude_repo=Grid-and-Flex,Cantina,Ficha-Personal)](https://github.com/hroglardev/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hroglardev?theme=nord)
-
+[![Anurag's GitHub stats](https://github-readme-stats-hroglardevs-projects.vercel.app/api?username=hroglardev&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/hroglardev/github-readme-stats)
 <br>
 
 <h2 align='left'> 📖 Latest Projects</h2>
